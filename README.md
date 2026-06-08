@@ -173,8 +173,8 @@ const bhadri = {
 ## GitHub Stats
 
 <div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=bhadriprabhu&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)
+  
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=bhadriprabhu&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 </div>
 
