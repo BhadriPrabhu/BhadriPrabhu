@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Instrumentation+Engg+%40+BIT;Full-Stack+%2B+Mobile+App+Developer;IEEE+PES+Chair+%7C+2x+Hackathon+Winner;Building+production+systems+since+Year+1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Instrumentation+Engg+%40+BIT;Full-Stack+%2B+Mobile+App+Developer;IEEE+PES+Chair+%7C+3x+Hackathon+Winner;Building+production+systems+since+Year+1)](https://git.io/typing-svg)
 
 </div>
 
@@ -30,9 +30,12 @@
 const bhadri = {
   name        : "Bhadri Prabhu K",
   degree      : "B.E. Instrumentation Engineering @ BIT Tamil Nadu",
-  year        : "2nd Year (2024–2028)",
+  year        : "3rd Year (2024–2028)",
   roles       : ["Full-Stack Developer", "Mobile App Engineer"],
-  internship  : "Full-Stack Intern @ Crayon'd (Sep 2024 – Apr 2025)",
+  internships : [
+    "SDE Intern @ Creozen (Current)",
+    "SDE Intern @ Crayon'd (Sep 2024 - Apr 2025)"
+  ],
   funFact     : "Started internship in 1st year. Built a 100+ user exam platform in 4 days.",
   currentFocus: ["System Design", "AI integrations", "Open Source"],
   reach       : "bhadrikeshav0612@gmail.com",
