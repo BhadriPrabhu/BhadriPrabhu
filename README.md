@@ -31,7 +31,7 @@ const bhadri = {
   name        : "Bhadri Prabhu K",
   degree      : "B.E. Instrumentation Engineering @ BIT Tamil Nadu",
   year        : "3rd Year (2024–2028)",
-  roles       : ["Full-Stack Developer", "Mobile App Engineer"],
+  roles       : ["Full-Stack Developer", "Mobile App Developer"],
   internships : [
     "SDE Intern @ Creozen (Current)",
     "SDE Intern @ Crayon'd (Sep 2024 - Apr 2025)"
@@ -41,97 +41,6 @@ const bhadri = {
   reach       : "bhadrikeshav0612@gmail.com",
 };
 ```
-
----
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [Code ER](https://github.com/bhadriprabhu/code-er)
-> Competitive programming platform - built in **4 days**, deployed on Nginx
-
-- Automated code judge for Python & C
-- Live leaderboard, anti-cheat system (tab & fullscreen detection)
-- Handled **100+ concurrent users** in a live 3-hour exam window
-- `React` `Python` `Nginx` `Linux`
-
-</td>
-<td width="50%" valign="top">
-
-### AI Voice Payment App
-> Voice-commanded fintech - AI handles payment intent end-to-end
-
-- Natural language intent recognition
-- Full backend + mobile integration
-- Architected from scratch to deployment
-- `React Native` `Node.js` `AI/NLP`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Mobile Connect
-> Cross-platform remote PC control via Flutter + AI voice
-
-- Biometric-secured wireless control
-- AI voice automation using **LLaMA 3.2** (local)
-- Real-time PC monitoring from mobile
-- `Flutter` `Node.js` `Python` `LLaMA 3.2`
-
-</td>
-<td width="50%" valign="top">
-
-### Collaborative Blogging Platform
-> Full-stack social blogging with moderation - freelance project
-
-- Social networking + user collaboration workflows
-- Advanced admin moderation panel
-- Robust architecture from DB to UI
-- `React` `Node.js` `PostgreSQL`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Eventhon](https://github.com/bhadriprabhu/eventhon)
-> **BIT Hackathon Winner** - built in a single session
-
-- Event hosting + scholarship application platform
-- Full frontend + backend in one hackathon
-- `React` `Node.js` `SQL`
-
-</td>
-<td width="50%" valign="top">
-
-### Image → Text & Speech
-> Accessibility-first OCR + TTS web app
-
-- ~90% OCR accuracy via **Tesseract.js**
-- Web Speech API text-to-speech
-- Built for visually impaired users
-- `React` `Tesseract.js` `Web Speech API`
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>More Projects</b></summary>
-<br>
-
-| Project | Description | Stack |
-|---|---|---|
-| **Kriya 1.0 Website** | Official website for BIT's 3-day flagship tech fest, built in 3 days | React, Tailwind |
-| **AI Chatbot (Gemini)** | Conversational AI with NLP using Google Gemini API | React, Gemini API |
-| **Fitness Tracker App** | React Native app with Zustand, Lottie animations, dark/light mode | React Native, Zustand |
-| **Green Smart Mart** | Freelance website for Coimbatore-based EV company | React.js |
-
-</details>
 
 ---
 
