@@ -33,7 +33,7 @@ const bhadri = {
   year        : "3rd Year (2024–2028)",
   roles       : ["Full-Stack Developer", "Mobile App Developer"],
   internships : [
-    "SDE Intern @ Creozen (Current)",
+    "SDE Intern @ Creozen (Aug 2026 - Sep 2026)",
     "SDE Intern @ Crayon'd (Sep 2024 - Apr 2025)"
   ],
   currentFocus: ["System Design", "AI integrations", "Open Source"],
